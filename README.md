@@ -7,7 +7,7 @@ El usuario podrá elegir la canción que quiera y poder ver la tetra de la canci
 ## Integrantes del equipo
 
 [Osama Bouatman El Khattabi, Álvaro Campos Coria, Mihail Dimitrov Stanoev, Dionisio Caballero García]
-
+[osamabouatman, alvarocamposupm, MihailDimitro, Dionicaballero]
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[Poder encontrar canciones y artistas junto a sus letras en un breve periodo de tiempo]
